@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-## Check out my games on Itch.io
+### Check out my games on Itch.io
+
+[![Itch](https://img.shields.io/badge/-Itch.io-090909?style=for-the-badge&logo=Itch.io&logoColor=blueviolet)](https://froggy-chair.itch.io)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kashapov&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
