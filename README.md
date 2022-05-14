@@ -7,9 +7,9 @@
 
 # Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kashapov&show_icons=true&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kashapov&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-kashapov&theme=cobalt2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-kashapov&theme=swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 * Found these amazing stats widgets on [Pavel's github page](https://github.com/pavel-collab)
 
