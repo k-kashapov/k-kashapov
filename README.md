@@ -1,7 +1,11 @@
-### Hi there 👋
+# Personal info
+
+### MIPT DREC student [2021; 2025]. Learning C/C++. Program games in the spare time.
 
 ### Check out my games: 
 [![Itch](https://img.shields.io/badge/-Itch.io-090909?style=for-the-badge&logo=Itch.io&logoColor=blueviolet)](https://froggy-chair.itch.io)
+
+# Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kashapov&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
