@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-### Check out my games on Itch.io
-
+### Check out my games: 
 [![Itch](https://img.shields.io/badge/-Itch.io-090909?style=for-the-badge&logo=Itch.io&logoColor=blueviolet)](https://froggy-chair.itch.io)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kashapov&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-kashapov&theme=shades-of-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **k-kashapov/k-kashapov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
