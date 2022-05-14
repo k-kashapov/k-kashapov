@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## Check out my games on Itch.io
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kashapov&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **k-kashapov/k-kashapov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
