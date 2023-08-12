@@ -1,6 +1,6 @@
 # Personal info
 
-### MIPT DREC student [2021; 2025]. Learning C/C++. Develop games in the spare time.
+### MIPT DREC student `[2021; 2025]`. Prefer C. Develop games in spare time.
 
 ### Check out my games on Itch.io:
 [![Itch](https://img.shields.io/badge/-Itch.io-090909?style=for-the-badge&logo=Itch.io&logoColor=blueviolet)](https://froggy-chair.itch.io)
@@ -10,8 +10,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kashapov&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-kashapov&theme=swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-* Found these amazing stats widgets on [Pavel's github page](https://github.com/pavel-collab)
 
 <!--
 **k-kashapov/k-kashapov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
